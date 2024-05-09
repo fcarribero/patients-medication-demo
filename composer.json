@@ -1,0 +1,12 @@
+{
+    "name": "cfrancisco/patients-medication-demo",
+    "description": "Technical demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Francisco Carribero",
+            "email": "francisco.carribero@gmail.com"
+        }
+    ],
+    "require": {}
+}
